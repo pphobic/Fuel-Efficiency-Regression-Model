@@ -34,7 +34,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
 1. Clone this repository or download the files.
 2. Make sure you have the `auto-mpg.data` file in the same directory.
-3. Open the `Model.ipynb` file in a Jupyter Notebook environment.
+3. Open the `fuel_efficiency_model.ipynb` file in a Jupyter Notebook environment.
 4. Run the cells in the notebook sequentially.
 
 ## Model
